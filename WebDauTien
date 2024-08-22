@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="description" content="Đây là trang web để học HTML">
+
+    <meta name="author" content="Thang Banh">
+
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+
+    <meta name="copyright" content="Copyright © 2024 by ThangBanh">
+
+    <link rel="icon" href="catbanh.png" type="image/x-icon">
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title> Đây là web của Thắng bảnh</title>
+    
+
+  </head>
+  <body>
+   <h1> <img width= "250" src = "https://media.tenor.com/5nykGZHNDikAAAAM/huh-cat.gif" /> </h1>
+    <style>
+
+        body {
+        
+        background-color: #faf2e4;
+        
+        margin: 0 10%;
+        
+        font-family: sans-serif;
+        
+        }
+        
+        h1 {
+        
+        text-align: center;
+        
+        font-family: serif;
+        
+        font-weight: normal;
+        
+        text-transform: uppercase;
+        
+        border-bottom: 1px solid #704f1e;
+        
+        margin-top: 30px;
+        
+        }
+        
+        h2 {
+        
+        color: #d1633c;
+        
+        font-size: 1em;
+        
+        }
+        
+        </style>
+       <h1> <img src = "catbanh.png"/>CV </h1>
+    <h2>Thông tin cá nhân</h2>
+    <ul>
+        <li>
+            Tên: Nguyễn Hoàng QUốc Thắng
+          </li>
+      <li>
+        Giới tính: Nam
+      </li>
+      <li>
+        Ngày sinh: 03/10/2004
+      </li>
+      <li>
+        Số điện thoại: 0123456789
+      </li>
+      <li>
+        Gmail: 2212458@dlu.edu.vn
+      </li>
+      <li>
+        Địa chỉ: Phường 8, Phù Đổng Thiên Vường, TP Đà Lạt
+      </li>
+    </ul>
+    
+    <h2>
+      Trình độ học vấn
+    </h2>
+      <ul>
+        <li>Trường đại học Đà Lạt</li>
+        <li>Tiếng Anh: B2</li>
+        <li>Tốt nghiệp loại giỏi GPA 3.35</li>
+      </ul>
+    <h2>
+      Kinh nghiệm làm việc
+    </h2>
+    <ul>
+      <li>Công ty FPT: Thực tập 6 tháng</li>
+      <li>Vị trí: Data Engineer</li>
+    </ul>
+       <h2>
+      Thông tin khác
+    </h2>
+    <ul>
+      Tích cực, hòa đồng tham gia các hoạt động ngoại khóa
+    </ul>
+  </body>
+</html>
